@@ -15,7 +15,7 @@ document.getElementById('input-data').addEventListener('keyup',function(event){
     else{
         disabledButton.setAttribute('disabled', true);
         disabledButton.style.backgroundColor = 'yellow';
-        alert.call
+        
     }
 
 })
